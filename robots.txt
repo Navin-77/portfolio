@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://navin-77.github.io/portfolio/sitemap.xml
